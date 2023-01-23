@@ -1,6 +1,6 @@
 # How2Git
 
-epic git repository
+Epic git repository
 
-very cool
+Very cool
 
